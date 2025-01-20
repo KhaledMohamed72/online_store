@@ -1,6 +1,6 @@
 # E-Commerce Website Documentation
 
-This repository contains the complete source code and documentation for building an e-commerce website from scratch to deployment on an online server. The project is built using **Laravel**, **Livewire**, **Alpine.js**, and **Bootstrap**.
+This repository contains building an e-commerce website from scratch to deployment on an online server. The project is built using **Laravel**, **Livewire**, **Alpine.js**, and **Bootstrap**.
 
 ## Project Features
 
